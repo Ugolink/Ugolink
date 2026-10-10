@@ -42,7 +42,10 @@ Currently, I am strengthening my analytical skills through hands on projects, da
 - Used a branch slicer to explore performance across locations.
 - Developed key insights to support business decision-making.
 
-*Repository link coming soon.*
+An interactive Excel dashboard analyzing 2025 retail sales,
+branch performance, product categories, discounts, and monthly trends.
+
+[View Project](https://github.com/Ugolink/GreenLeaf-Retail-Sales-Analysis)
 
 ### 📈 Power BI Projects
 **Social Media Dashboard — Codveda Data Analytics Internship**
